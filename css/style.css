@@ -61,7 +61,7 @@ h1 span,
 h2 span,
 h3 span,
 h4 span {
-	color: #bc7878;
+	color: #339BEB;
 }
 .text-colored {
 	color: #55acee;
@@ -70,7 +70,7 @@ a {
 	color: #55acee;
 }
 a:hover {
-	color: #bc7878;
+	color: #339BEB;
 }
 a:focus,
 a:active {
@@ -316,8 +316,8 @@ blockquote {
 }
 .btn-default:hover {
 	color: #ffffff;
-	background-color: #bc7878;
-	border-color: #bc7878
+	background-color: #339BEB;
+	border-color: #339BEB
 		;
 }
 
